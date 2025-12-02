@@ -1,0 +1,6 @@
+- [x] Implement create_table class method in Department class
+- [x] Implement drop_table class method in Department class
+- [x] Implement save instance method in Department class
+- [x] Implement create class method in Department class
+- [x] Implement update instance method in Department class
+- [x] Implement delete instance method in Department class
